@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784288128422",
+    "project_id": "automatedirrigationsyste-f1484",
+    "storage_bucket": "automatedirrigationsyste-f1484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784288128422:android:d6d0581eb9a982b072c367",
+        "android_client_info": {
+          "package_name": "com.example.automated_irrigation_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784288128422-smv8qdfbbqadq9mm5amvhsfsr2rbai5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCBza2m9LuZ3JFj0Su-8W_HPrOKg4k8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784288128422-smv8qdfbbqadq9mm5amvhsfsr2rbai5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
